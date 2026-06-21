@@ -7,3 +7,4 @@ My first repository of RAG
 it's so good
 - hhhhha
 shishaye 
+对对对就是这样
