@@ -5,3 +5,4 @@ My first repository of RAG
 - pip install numpy
 ```Congratulate for you```
 it's so good
+yes 就是这样
