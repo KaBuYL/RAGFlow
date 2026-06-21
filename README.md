@@ -6,3 +6,4 @@ My first repository of RAG
 ```Congratulate for you```
 it's so good
 - hhhhha
+对对对就是这样
